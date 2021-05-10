@@ -9,10 +9,10 @@
 
 ## 📝 Features & Commands
 
-![reactions](https://github.com/kayraucklnc/Image-to-excell-python/blob/master/src/1.png?raw=true)
-![reactions](https://github.com/kayraucklnc/Image-to-excell-python/blob/master/src/2.png?raw=true)
-![reactions](https://github.com/kayraucklnc/Image-to-excell-python/blob/master/src/3.png?raw=true)
-![reactions](https://github.com/kayraucklnc/Image-to-excell-python/blob/master/src/4.png?raw=true)
+![reactions](https://github.com/kayraucklnc/Image-to-excell-python/blob/master/src/1.jpg?raw=true)
+![reactions](https://github.com/kayraucklnc/Image-to-excell-python/blob/master/src/2.jpg?raw=true)
+![reactions](https://github.com/kayraucklnc/Image-to-excell-python/blob/master/src/3.jpg?raw=true)
+![reactions](https://github.com/kayraucklnc/Image-to-excell-python/blob/master/src/4.jpg?raw=true)
 
 ## 🤝 Contributing
 
